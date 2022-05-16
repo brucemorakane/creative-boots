@@ -451,12 +451,12 @@ main {
 }
 
 .resume-list li .date {
-  color: #000;
+  color: black;
   opacity: .6;
 }
 
 .resume-list li h3 {
-  color: #000;
+  color: black;
   font-size: 24px;
 }
 
