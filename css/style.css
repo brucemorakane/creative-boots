@@ -316,7 +316,7 @@ main, aside {
   width: 100%;
 }
 
-@media (min-width: 576px) {
+@media (min-width: 500px) {
   main, aside {
     width: 50%;
   }
